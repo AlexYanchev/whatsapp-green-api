@@ -1,5 +1,6 @@
 {
   "name": "whatsapp-green-api",
+  "homepage": "https://alexyanchev.github.io/whatsapp-green-api/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
