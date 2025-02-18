@@ -3,6 +3,7 @@ import styled, { css } from 'styled-components';
 
 const Container = styled.div<{ $self: boolean }>`
   display: flex;
+  margin-bottom: 8px;
   ${(props) =>
     props.$self
       ? css`
